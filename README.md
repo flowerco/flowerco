@@ -17,8 +17,6 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img src="https://img.shields.io/badge/threejs-ffffff?style=for-the-badge&logo=three.js&logoColor=000000" />
    <img src="https://img.shields.io/badge/-tailwind-00B8D5?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
 **Back-end**
 
@@ -32,7 +30,6 @@
 
   <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-236192?style=for-the-badge&logo=blender&logoColor=EA7600"/>
   <img src="https://img.shields.io/badge/-postman-FC6C34?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
 
