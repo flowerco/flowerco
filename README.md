@@ -1,7 +1,7 @@
 <h1 align="center">About Me<br></h1>
 Welcome to FlowerCo!<br><br>
-I'm a full stack developer based in the UK. My day job is data science in Python but I also love to build websites and apps in JavaScript.
-You can find my favourite personal projects pinned below, and check out my portfolio website to see some of them fully deployed!
+I'm a full stack developer based in the UK. My day job is data science in Python but I also build websites and applications in React / JavaScript.
+You can find my latest projects pinned below, and check out my portfolio website to see some of them fully deployed!
 
 <h3><a href="https://flowerco.tech">FlowerCo.tech</a></h3>
 
