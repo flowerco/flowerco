@@ -1,6 +1,6 @@
 <h1 align="center">About Me<br></h1>
 Welcome to FlowerCo!<br><br>
-I'm a full stack developer based in the UK. My day job is data science in Python but I also build websites and applications in React / JavaScript.
+I'm a full stack developer based in the UK. My day job is data science in Python but I also build websites and applications in React / JavaScript / Java.
 You can find my latest projects pinned below, and check out my portfolio website to see some of them fully deployed!
 
 <h3><a href="https://flowerco.tech">FlowerCo.tech</a></h3>
@@ -14,7 +14,7 @@ You can find my latest projects pinned below, and check out my portfolio website
   <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 **Front-end**
 
